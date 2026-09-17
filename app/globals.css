@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+* { box-sizing:border-box; }
+body { margin:0; background:#f4f6f8; color:#172033; font-family: Arial, Helvetica, sans-serif; }
+button, input { font:inherit; }
+a { color:inherit; text-decoration:none; }
+.bank-card { background:white; border:1px solid #e3e8ef; border-radius:12px; box-shadow:0 8px 28px rgba(15,23,42,.06); }
+.muted { color:#687386; }
