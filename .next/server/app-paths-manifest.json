@@ -1,3 +1,9 @@
 {
-  "/page": "app/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/bank-security/page": "app/bank-security/page.js",
+  "/api/chat/route": "app/api/chat/route.js",
+  "/cyberbank/page": "app/cyberbank/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/red-team/page": "app/red-team/page.js"
 }

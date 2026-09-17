@@ -1,15 +1,59 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-c81f7fd28659d64f.js",
+      "static/chunks/fd9d1056-cf48984c1108c87a.js",
+      "static/chunks/117-07cd2ade56352db2.js",
+      "static/chunks/main-app-b1e1ff2bae77b971.js",
+      "static/chunks/app/_not-found/page-41ffdbb4455d3b7e.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-c81f7fd28659d64f.js",
+      "static/chunks/fd9d1056-cf48984c1108c87a.js",
+      "static/chunks/117-07cd2ade56352db2.js",
+      "static/chunks/main-app-b1e1ff2bae77b971.js",
+      "static/css/a4c2a13b776aa93d.css",
+      "static/chunks/app/layout-14bcc1859b9ad9e1.js"
+    ],
+    "/bank-security/page": [
+      "static/chunks/webpack-c81f7fd28659d64f.js",
+      "static/chunks/fd9d1056-cf48984c1108c87a.js",
+      "static/chunks/117-07cd2ade56352db2.js",
+      "static/chunks/main-app-b1e1ff2bae77b971.js",
+      "static/chunks/648-55c85f69d3e6066d.js",
+      "static/chunks/app/bank-security/page-489c2b310e86bdcb.js"
+    ],
+    "/cyberbank/page": [
+      "static/chunks/webpack-c81f7fd28659d64f.js",
+      "static/chunks/fd9d1056-cf48984c1108c87a.js",
+      "static/chunks/117-07cd2ade56352db2.js",
+      "static/chunks/main-app-b1e1ff2bae77b971.js",
+      "static/chunks/648-55c85f69d3e6066d.js",
+      "static/chunks/app/cyberbank/page-636a6e4d82135fb5.js"
+    ],
+    "/login/page": [
+      "static/chunks/webpack-c81f7fd28659d64f.js",
+      "static/chunks/fd9d1056-cf48984c1108c87a.js",
+      "static/chunks/117-07cd2ade56352db2.js",
+      "static/chunks/main-app-b1e1ff2bae77b971.js",
+      "static/chunks/648-55c85f69d3e6066d.js",
+      "static/chunks/app/login/page-5f421a3bbd251196.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-c81f7fd28659d64f.js",
+      "static/chunks/fd9d1056-cf48984c1108c87a.js",
+      "static/chunks/117-07cd2ade56352db2.js",
+      "static/chunks/main-app-b1e1ff2bae77b971.js",
+      "static/chunks/648-55c85f69d3e6066d.js",
+      "static/chunks/app/page-cb6098f363ceb4cb.js"
+    ],
+    "/red-team/page": [
+      "static/chunks/webpack-c81f7fd28659d64f.js",
+      "static/chunks/fd9d1056-cf48984c1108c87a.js",
+      "static/chunks/117-07cd2ade56352db2.js",
+      "static/chunks/main-app-b1e1ff2bae77b971.js",
+      "static/chunks/648-55c85f69d3e6066d.js",
+      "static/chunks/app/red-team/page-95819db57be2b8f4.js"
     ]
   }
 }
